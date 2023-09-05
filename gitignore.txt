@@ -1,0 +1,58 @@
+# Archivos generados automáticamente
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub/
+/build/
+/packages/
+
+# Dependencias generadas
+.idea/
+.vscode/
+*.iml
+*.iws
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# Archivos locales
+.idea/
+*.iml
+*.iws
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# Ejemplos de archivos que puedes incluir si usas Android Studio
+# /android/.gradle/
+# /android/build/
+# /android/gradle/
+# /android/local.properties
+# /android/app/.cxx/
+# /android/captures/
+
+# Ejemplos de archivos que puedes incluir si usas Visual Studio Code
+# /.vscode/
+# /code-name/
+# /.idea/
+
+# Dependencias específicas del sistema operativo
+# /ios/Pods/
+# /ios/Podfile.lock
+# /ios/Runner.xcodeproj/
+# /ios/Flutter/Flutter.framework/
+
+# Archivos generados por herramientas de análisis estático
+analysis_options.lock
+analysis_options.yaml
+
+# Ejemplos de archivos que puedes incluir si usas Android Studio
+# Ejemplos de archivos que puedes incluir si usas Xcode
+# Ejemplos de archivos que puedes incluir si usas Visual Studio Code
+
+# Ejemplos de archivos que puedes incluir si usas Xcode
+# Ejemplos de archivos que puedes incluir si usas Visual Studio Code
